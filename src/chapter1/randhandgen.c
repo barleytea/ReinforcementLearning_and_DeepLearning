@@ -1,8 +1,4 @@
-/*****************************/
-/*                           */
 /* generate 1000 biased hand */
-/*                           */
-/*****************************/
 
 #define _CRT_SECURE_NO_WARNINGS
 
